@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "Sej-tool",
+  "mainClass": "dk.signtool.shadow.Signtool",
+  "description": "Signtool, helps you with makeing and saving signs!",
+  "version": 2.0,
+  "author": "Mads_Gamer_DK & Shad0wsense",
+  "category": 2,
+  "icon": "https://cdn.discordapp.com/attachments/872154603016290414/974294699810652200/SIgntool.png"
+}
